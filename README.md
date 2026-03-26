@@ -2,7 +2,7 @@
 
 **MlinziFarm** is a climate-smart agriculture platform designed to protect smallholder farmers in Kenya from the devastating impacts of seasonal flooding. By combining real-time weather data, satellite imagery analysis, and Google's Gemini AI, the platform provides localized, actionable advice to safeguard crops and livestock.
 
-![MlinziFarm Dashboard](https://picsum.photos/seed/nairobi-happy-farmers/1200/600)
+![MlinziFarm Dashboard](https://picsum.photos/seed/farm/1200/600)
 
 ## 🌟 Key Features
 
